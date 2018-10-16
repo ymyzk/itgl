@@ -4,6 +4,9 @@
 
 A type inference algorithm implementation for Implicitly Typed Gradual Language
 
+## THIS PROJECT IS ARCHIVED
+A new *interpreter* of the ITGL is available at [ymyzk/lambda-dti](https://github.com/ymyzk/lambda-dti).
+
 ## Usage
 ### Compile & Run interpreter
 ```shell
